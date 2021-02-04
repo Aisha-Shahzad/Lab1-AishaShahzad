@@ -11,4 +11,4 @@ Q3) Fix the bug and commit your changes of this fix on the master branch? Paste 
 Fixed
 Q4) Copy and paste the name of the developer who has been recently working on the coins branch.
 
-
+Sarah Spikes
