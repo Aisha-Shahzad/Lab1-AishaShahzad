@@ -9,5 +9,7 @@ The line below was removed in commit ID 25ede which caused the bug
 
 Q3) Fix the bug and commit your changes of this fix on the master branch? Paste the commit ID below.
 Fixed
+
+e7bc17396c24517db2bbf03012812af008753616
 Q4) Copy and paste the name of the developer who has been recently working on the coins branch.
 Sarah Spikes
